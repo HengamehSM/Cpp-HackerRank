@@ -1,4 +1,4 @@
 # Cpp-HackerRank
 
-Solutions of HackerRank C++ tutorial exercises.
+Solutions of HackerRank C++ exercises.
 
